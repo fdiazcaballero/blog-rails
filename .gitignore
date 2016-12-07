@@ -70,3 +70,8 @@ Contact GitHub API Training Shop Blog About
 
 /nbproject/private/
 /nbproject
+/bin/
+/bin/rake/
+/bin/rails/
+/bin/spring/
+./vscode/
